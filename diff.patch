@@ -1,0 +1,8 @@
+--- old.txt	2018-06-09 14:17:14.220024986 +0800
++++ new.txt	2018-06-09 14:18:23.228026834 +0800
+@@ -1,2 +1,4 @@
+-I am a good man!
++I am not a good man!
+ Are you a good man?
++If you are a good man, please tell me by writing letters!
++Thanks very much!
